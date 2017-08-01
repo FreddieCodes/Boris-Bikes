@@ -26,7 +26,7 @@ verbs
 | Docking-station | release_bike |
 
 
-Bike <-> working? -> True or False 
+Bike <- working? -> True or False 
 
 Docking station <- release_bike -> Person receives bike
 
